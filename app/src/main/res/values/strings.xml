@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Filmoteca</string>
+    <string name="text_view_content">Creado por Abdiel </string>
+    <string name="button4">Ir al sitio web</string>
+    <string name="button5">Obtener Soporte</string>
+    <string name="button6">Volver</string>
+</resources>
